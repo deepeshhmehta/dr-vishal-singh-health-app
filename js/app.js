@@ -1,6 +1,6 @@
 // Ionic Starter App
 var domain = "https://health.shahandanchor.com/";
-var apkInterfaceId =29;
+var apkInterfaceId =71;
 angular.module('underscore', [])
         .factory('_', function () {
             return window._; // assumes underscore has already been loaded on the page
